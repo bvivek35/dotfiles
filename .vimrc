@@ -1,0 +1,1 @@
+/Users/vb/.vimrc
